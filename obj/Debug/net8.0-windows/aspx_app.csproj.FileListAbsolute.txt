@@ -1,0 +1,16 @@
+E:\ms\shellcode\aspx环境\aspx_app\obj\Debug\net8.0-windows\aspx_app.Form1.resources
+E:\ms\shellcode\aspx环境\aspx_app\obj\Debug\net8.0-windows\aspx_app.csproj.GenerateResource.cache
+E:\ms\shellcode\aspx环境\aspx_app\obj\Debug\net8.0-windows\aspx_app.GeneratedMSBuildEditorConfig.editorconfig
+E:\ms\shellcode\aspx环境\aspx_app\obj\Debug\net8.0-windows\aspx_app.AssemblyInfoInputs.cache
+E:\ms\shellcode\aspx环境\aspx_app\obj\Debug\net8.0-windows\aspx_app.AssemblyInfo.cs
+E:\ms\shellcode\aspx环境\aspx_app\obj\Debug\net8.0-windows\aspx_app.csproj.CoreCompileInputs.cache
+E:\ms\shellcode\aspx环境\aspx_app\bin\Debug\net8.0-windows\aspx_app.exe
+E:\ms\shellcode\aspx环境\aspx_app\bin\Debug\net8.0-windows\aspx_app.deps.json
+E:\ms\shellcode\aspx环境\aspx_app\bin\Debug\net8.0-windows\aspx_app.runtimeconfig.json
+E:\ms\shellcode\aspx环境\aspx_app\bin\Debug\net8.0-windows\aspx_app.dll
+E:\ms\shellcode\aspx环境\aspx_app\bin\Debug\net8.0-windows\aspx_app.pdb
+E:\ms\shellcode\aspx环境\aspx_app\obj\Debug\net8.0-windows\aspx_app.dll
+E:\ms\shellcode\aspx环境\aspx_app\obj\Debug\net8.0-windows\refint\aspx_app.dll
+E:\ms\shellcode\aspx环境\aspx_app\obj\Debug\net8.0-windows\aspx_app.pdb
+E:\ms\shellcode\aspx环境\aspx_app\obj\Debug\net8.0-windows\aspx_app.genruntimeconfig.cache
+E:\ms\shellcode\aspx环境\aspx_app\obj\Debug\net8.0-windows\ref\aspx_app.dll
